@@ -1,0 +1,5 @@
+/home/coder/Desktop/cmake_test/t2/build/install/lib/libhello.so.1.2
+/home/coder/Desktop/cmake_test/t2/build/install/lib/libhello.so.1
+/home/coder/Desktop/cmake_test/t2/build/install/lib/libhello.so
+/home/coder/Desktop/cmake_test/t2/build/install/lib/libhello.a
+/home/coder/Desktop/cmake_test/t2/build/install/include/hello/hello.h
